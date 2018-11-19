@@ -112,7 +112,7 @@ export const foodItem = [
 	{name:"Crêpe Francês do Dia", imgURL:"https://raw.githubusercontent.com/yuri-barone/delicio/gh-pages/img/crepe-frances.jpg", 
 		description:"Crêpe Francês - ´É um tipo de panqueca muito fina com a casquinha crocante com variados recheios, muito consumido e famoso na França.", category:"lanches", price:"R$9,90", recommended:true},
 	
-		{name:"Sanduiche Natural de Kani", imgURL:"https://raw.githubusercontent.com/yuri-barone/delicio/gh-pages/img/sanduiche-kani.jpg", description:"Pão de Forma Integral, Cream Cheese, Cheio Verde, Kani Kama sabor carangueijo.", category:"lanches", price:"R$9,50", recommended:true},	
+		{name:"Sanduiche Natural de Kani", imgURL:"https://raw.githubusercontent.com/DelicioCoffee/cardapio/gh-pages/img/sanduiche-kani.jpg", description:"Pão de Forma Integral, Cream Cheese, Cheio Verde, Kani Kama sabor carangueijo.", category:"lanches", price:"R$9,50", recommended:true},	
    
 	{name:"Coxinha de Carne ou Frango", imgURL:"https://raw.githubusercontent.com/yuri-barone/delicio/gh-pages/img/salgado-frito.jpg", 
 		description:"Sucesso da Casa. Sabor único Deliciô, Feita com massa de batata, fritinha na hora tem uma casquinha super crocante e muito macia por dentro, como toda coxinha deve ser!!!", category:"lanches", price:"R$4,75", recommended:true},
