@@ -1,6 +1,6 @@
 {
   "name": "my-app",
-  "homepage": "http://yuri-barone.github.io/delicio",
+  "homepage": "https://deliciocoffee.github.io/cardapio/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -14,9 +14,10 @@
     "react-scroll-horizontal": "^1.5.1"
   },
   "scripts": {
-    "predeploy": "npm run build", "build": "react-scripts build",
- "deploy": "gh-pages -d build",
-    "start": "react-scripts start", "deploy": "gh-pages -d build",
+    "predeploy": "npm run build",
+    "build": "react-scripts build",
+    "deploy": "gh-pages -d build",
+    "start": "react-scripts start",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
